@@ -83,7 +83,7 @@ the likelihood of file recovery compared to standard OS deletion methods.
 
 ## 📥 Download
 
-➡️ [Download Latest Version]([https://www.cairosoftware.com/en/products/cairo-secure-eraser/download-free/])
+➡️ [Download Latest Version](https://www.cairosoftware.com/en/products/cairo-secure-eraser/)
 
 ---
 
